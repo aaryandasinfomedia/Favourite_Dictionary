@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Favourite Dictionary</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+</resources>
