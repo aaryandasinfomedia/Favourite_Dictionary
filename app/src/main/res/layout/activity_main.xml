@@ -26,7 +26,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/_15sdp"
         android:background="@null"
-        app:startIconDrawable="@drawable/ic_baseline_email_24"
+        app:startIconDrawable="@drawable/login_mail_svg"
         android:layout_marginHorizontal="@dimen/_20sdp">
 
         <com.google.android.material.textfield.TextInputEditText
@@ -47,7 +47,7 @@
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:startIconDrawable="@drawable/ic_baseline_password_24"
+        app:startIconDrawable="@drawable/login_password_svg"
         android:layout_marginHorizontal="@dimen/_20sdp"
         app:passwordToggleEnabled="true">
 
